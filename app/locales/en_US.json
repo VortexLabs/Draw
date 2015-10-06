@@ -1,0 +1,104 @@
+{
+  "meta" :
+  {
+    "title" : "--- title [en_US]",
+    "description" : "---",
+    "keywords" : "---",
+
+    "share" : "locales/images/en_QA/social-share.png"
+  },
+
+  "upgrade" :
+  {
+    "label" : "<br>YOU ARE USING AN <strong>OUTDATED</strong> BROWSER.<br>PLEASE <a style='color:#ab1515;' href='http://browsehappy.com/'>UPGRADE YOUR BROWSER</a> TO IMPROVE YOUR EXPERIENCE.",
+    "style" : { "fontSize" : "24px" }
+  },
+
+  "loading" :
+  {
+    "style": { "fontSize" : "32px", "letterSpacing" : "2px" },
+    "size" : { "w" : "600", "h" : "400" },
+    "position" : { "x" : "0", "y" : "0" },
+    "src" : ""
+  },
+
+  "app" :
+  {
+
+    "views" :
+    {
+
+      "home" :
+      {
+        "title" :
+        {
+          "label" : "MI5",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      },
+
+      "synopsis" :
+      {
+        "title" :
+        {
+          "label" : "MI5 -- Synopsis",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      },
+
+      "soundtrack" :
+      {
+        "title" :
+        {
+          "label" : "MI5 -- Soundtrack",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      },
+
+      "gallery" :
+      {
+        "meta" :
+        {
+          "title" : "MI5 -- Gallery"
+        },
+
+        "title" :
+        {
+          "label" : "MI5 -- Gallery",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      }
+    },
+
+      "partners" :
+      {
+        "title" :
+        {
+          "label" : "MI5 -- Partners",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      },
+
+    "footer" :
+    {
+      "views" :
+      {
+        "credits" :
+        {
+          "title" :
+          {
+            "label" : "MI5",
+            "style" : { "fontSize" : "20px" },
+            "visible" : "true",
+            "link" : ""
+          }
+        }
+      }
+    }
+  }
+}

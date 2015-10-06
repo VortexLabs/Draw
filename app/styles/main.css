@@ -1,0 +1,30 @@
+h1 {
+  color: green; }
+
+tr td {
+  border: 1px solid white;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  padding: 0; }
+
+.colorPicker .colorPreview {
+  width: 100%;
+  height: 25px; }
+
+.colorPicker input {
+  width: 28%; }
+
+.colorPicker label {
+  font-family: arial; }
+
+#pixel-container {
+  margin: auto auto;
+  max-width: 750px;
+  max-height: 900px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: 0;
+  right: 0; }

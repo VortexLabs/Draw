@@ -1,0 +1,69 @@
+{
+  "upgrade" :
+  {
+    "label" : "<br>YOU ARE USING AN <strong>OUTDATED</strong> BROWSER.<br>PLEASE <a style='color:#ab1515;' href='http://browsehappy.com/'>UPGRADE YOUR BROWSER</a> TO IMPROVE YOUR EXPERIENCE.",
+    "style" : { "fontSize" : "24px" }
+  },
+
+  "loading" :
+  {
+    "style": { "fontSize" : "32px", "letterSpacing" : "2px" },
+    "size" : { "w" : "600", "h" : "400" },
+    "position" : { "x" : "0", "y" : "0" },
+    "src" : ""
+  },
+
+  "app" :
+  {
+    "fonts" :
+    {
+      "houseBroken" : "true",
+      "gotham" : "true"
+    },
+
+    "title" : "--- title [en]",
+    "description" : "---",
+    "keywords" : "---",
+
+    "share" : "locales/images/en_QA/social-share.png",
+
+    "views" :
+    {
+      "home" :
+      {
+        "title" :
+        {
+          "label" : "Home",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      },
+      "home" :
+      {
+        "title" :
+        {
+          "label" : "Home",
+          "style" : { "fontSize" : "44px", "height" : "42px", "lineHeight" : "50px", "letterSpacing" : "1px" },
+          "visible" : "true"
+        }
+      }
+    },
+
+    "footer" :
+    {
+      "views" :
+      {
+        "credits" :
+        {
+          "title" :
+          {
+            "label" : "MI5",
+            "style" : { "fontSize" : "20px" },
+            "visible" : "true",
+            "link" : ""
+          }
+        }
+      }
+    }
+  }
+}
